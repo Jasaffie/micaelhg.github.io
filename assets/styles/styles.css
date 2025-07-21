@@ -25,3 +25,13 @@ font-family: "Anton", sans-serif;
 .fondoColor3{
     background-color: #7294b9;
 }
+
+footer {
+  padding: 24px;
+}
+
+footer p {
+  font-size: 18px;
+  text-align: center;
+  margin: 0px;
+}
